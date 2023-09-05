@@ -1,1 +1,0 @@
-This post discusses how to configure a DICOM test environment to simulate query-based retrieval from a traditional PACS server. This simulation can be used to improve query-based retrieval or other downloading functions without altering the real-time system.
